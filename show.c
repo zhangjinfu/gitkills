@@ -6,4 +6,5 @@ void print()
 	printf("test3\n");
 
 	printf("add 1\n");
+	printf("add 2\n");
 }
